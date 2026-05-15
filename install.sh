@@ -5,7 +5,7 @@ apt install -y curl git
 
 # Backend
 cd /opt
-git clone https://github.com/TON_USER/ptero-web-installer.git
+https://github.com/soufly9009/installer-pterodactyl.git
 cd ptero-web-installer/backend
 apt install -y nodejs npm
 npm install
