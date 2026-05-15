@@ -63,7 +63,7 @@ ptero-web-installer/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/TON_USER/ptero-web-installer.git
+https://github.com/soufly9009/installer-pterodactyl.git
 cd ptero-web-installer
 ```
 
